@@ -1,3 +1,4 @@
-78
+79
 
-修复自动更新失效的BUG
+修复bug：
+import的css中又import其他文件时文件名未去除.source
