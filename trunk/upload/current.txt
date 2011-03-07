@@ -1,4 +1,3 @@
-82
+83
 
-1.增加loading图标
-2.优化.email.htm的处理方式
+优化AutoSprite算法，生成的sprite图片面积及体积更小
