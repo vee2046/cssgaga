@@ -1,3 +1,4 @@
-84
+85
 
-生成.email.htm时只处理head中的link
+修复AutoSpritebug：
+bg-position:0 0时多出来一个分号
