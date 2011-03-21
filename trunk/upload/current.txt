@@ -1,8 +1,4 @@
-89
+90
 
-文件格式转换功能调整，支持以下3种格式转换：
-css -> source.css
-gif -> png8
-png32 -> png8(α)
-
-注：转换后会删除（或覆盖）源文件
+AutoSprite不再精简bg-position:0 0
+因有时通过切换class来换背景时需要覆盖坐标
