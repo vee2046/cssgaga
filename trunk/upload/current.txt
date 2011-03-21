@@ -1,4 +1,6 @@
-91
+92
+
+MozToCSS3将会在Firefox4发布后取消！！！
 
 build90：
 AutoSprite不再精简bg-position:0 0
