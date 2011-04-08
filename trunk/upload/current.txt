@@ -1,4 +1,4 @@
-95
+96
 
-1. 目标环境增加至7个
-2. AutoSprite的slice支持gif
+修复gif去色时的bug
+更改为去色时将gif转为png8
