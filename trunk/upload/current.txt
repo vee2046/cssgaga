@@ -1,4 +1,3 @@
-96
+97
 
-修复gif去色时的bug
-更改为去色时将gif转为png8
+修复gif去色时为png32的bug
