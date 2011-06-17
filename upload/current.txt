@@ -1,3 +1,8 @@
+126
+
+jpg压缩质量默认从60调为70，并增加jpg HD选项（相当于80）
+注：所有经过CssGaga的jpg都按此参数处理
+
 125
 
 AutoSprite支持独立sprite（在需要独立sprite的css中添加#CssGaga{background-image:none}）
