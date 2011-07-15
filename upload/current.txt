@@ -1,3 +1,4 @@
-146
+147
 
-修复AutoSprite时转绝对路径有时不生效的bug
+1. 根据 RFC 规范，将 max-age 的值调整为一年（感谢damao提醒）
+2. 修复去色后图片不能删除的bug（感谢meterscao反馈）
