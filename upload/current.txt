@@ -1,3 +1,3 @@
-148
+149
 
-调整jpg压缩算法
+增加slice to code功能，详情请按F1看99css.com的介绍
