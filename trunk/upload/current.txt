@@ -5,7 +5,7 @@
 2. 调整AutoSprite算法
 
 之前：支持*、#、_三种hack
-现在：只支持_，并且只支持gif和png格式
+现在：只支持_，并且只支持gif和png格式，单独合并为一张名为*-ie6.png的sprite
 
 例如：
 ①.class{background-image:url(slice/a.png);_background-image:url(slice/b.gif);}
