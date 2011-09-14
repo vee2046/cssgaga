@@ -1,7 +1,7 @@
-158
+159
 
-增加保存状态功能：
+增加@import智能分析功能：
 
-1. 批量处理完文件后，右下角出现“保存状态”链接，点击即可保存此次处理的文件列表至桌面 GagaSession.log
+比如拖进reset.css，则所有import url(reset.css)的css都会被处理
 
-2. 拖 GagaSession.log 进 CssGaga 即可处理此文件列表中的文件
+注：该功能山寨小李刀刀(ofcss.com)的CssToolkit
