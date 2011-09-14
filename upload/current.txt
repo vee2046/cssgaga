@@ -1,6 +1,6 @@
-159
+160
 
-增加@import智能分析功能：
+增加检查关联性功能（有界面选项）：
 
 比如拖进reset.css，则所有import url(reset.css)的css都会被处理
 
