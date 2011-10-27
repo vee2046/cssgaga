@@ -1,6 +1,3 @@
-163
+164
 
-赶快试试更紧的 AutoSprite 吧
-
-需 .NET Framework 4.0 
-下载地址：http://www.microsoft.com/net
+去除gif压缩（因其在IE6/7/8中有显示问题），感谢galendong反馈
