@@ -1,3 +1,6 @@
-165
+166
 
-修复小于1KB的png压缩bug，感谢meterscao反馈
+CSS可附加自定义代码，%filename%为当前CSS的文件名（不含后缀）
+
+<add key="cssPrefix" value="%filename%" />
+<add key="cssSuffix" value="%filename%" />
