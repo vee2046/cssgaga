@@ -1,3 +1,8 @@
-167
+168
 
-增加自动生成 iPhone 各尺寸 icon 功能
+增加 iPhone 选项：
+
+1. *@2x.png -> *.png
+2. 512*512 -> iPhone各尺寸的icon
+
+具体使用方法请留意 99css.com 后续的文章
