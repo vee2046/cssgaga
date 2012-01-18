@@ -1,8 +1,3 @@
-168
+169
 
-增加 iPhone 选项：
-
-1. *@2x.png -> *.png
-2. 512*512 -> iPhone各尺寸的icon
-
-具体使用方法请留意 99css.com 后续的文章
+更新PngOptimizerCL.exe（感谢淘米网的反馈）
