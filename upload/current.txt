@@ -1,8 +1,8 @@
-174
+175
 
-增加多层 import 检查，检查结果输出警告区域 (感谢 damao 的建议)
+AutoSprite 支持生成 png32
 
-注：分两种提示：
+命名以 "-32.png" 结尾的 slice 们将拼为一张 png32 的 sprite，例如如下写法
 
-1. 错误，以 alert 方式弹出，必须处理
-2. 警告，输出在文本框最下方，需人为判断是否处理
+.icon1{width:16px;height:16px;background-image:url(slice/icon1-32.png)}
+.icon2{width:16px;height:16px;background-image:url(slice/icon2-32.png)}
