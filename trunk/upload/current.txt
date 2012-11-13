@@ -1,9 +1,6 @@
-183
+184
 
-Slice to Code 优化
+Prefix 和 Suffix 支持时间变量 %datetime%，例如
+<add key="cssSuffix" value="#cssgaga-%filename%-end{z-index:%datetime%}" />
 
-Before:
-.xxx-32{width:16px;height:16px;background-image:url(slice/xxx.32.png);}
-
-After:
-.xxx{width:16px;height:16px;background-image:url(slice/xxx.32.png);_background-image:url(slice/xxx.ie6.png);}
+此例的应用场景：开发科通过获取此处的 z-index 值来做 css 文件的版本对比
