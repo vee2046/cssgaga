@@ -1,3 +1,9 @@
+191
+
+Slice to code 调整为 Image to code
+img目录拖进来的图片都能自动生成如下形式的代码
+.icon{width:16px;height:16px;background-image:url(img/icon.png);}
+
 190
 
 目录规则调整（重要！）
