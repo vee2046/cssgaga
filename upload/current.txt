@@ -1,3 +1,7 @@
+192
+
+暂时去除 Image to code，下个版本恢复
+
 191
 
 Slice to code 调整为 Image to code
