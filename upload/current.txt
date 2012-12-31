@@ -1,8 +1,4 @@
-192
-
-暂时去除 Image to code，下个版本恢复
-
-191
+193
 
 Slice to code 调整为 Image to code
 img目录拖进来的图片都能自动生成如下形式的代码
