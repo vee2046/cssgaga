@@ -1,8 +1,7 @@
-193
+194
 
-Slice to code 调整为 Image to code
-img目录拖进来的图片都能自动生成如下形式的代码
-.icon{width:16px;height:16px;background-image:url(img/icon.png);}
+png32转png8(α)后的文件名改为 *.8a.png
+拖slice/目录的文件不会同步到目标环境
 
 190
 
