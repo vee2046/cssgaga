@@ -1,6 +1,4 @@
-195
+196
 
-集成LESS，目前仅支持 *.less -> *.css
-更多功能，敬请期待~
-
-注：同名css会被覆盖，请谨慎操作
+支持 retina，详见 http://www.99css.com
+更新 PngOptimizerCL.exe
