@@ -1,4 +1,4 @@
-198
+199
 
-支持 retina，详见 http://www.99css.com
-更新 png 压缩工具
+1. 修复retina不支持png32 sprite的bug
+2. 去除优图
