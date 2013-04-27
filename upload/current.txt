@@ -1,7 +1,7 @@
-243
+244
 
-1. 恢复检查关联性选项
-2. 修复压缩import url时的bug
+hack retina webkit background-size bug
+详情请关注 http://www.99css.com 的后续博文
 
 242
 去除LESS相关功能
