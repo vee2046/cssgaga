@@ -1,4 +1,4 @@
-245
+246
 
 1. 改进 2x -> 1x 算法（感谢 meterscao 反馈问题）
 2. 更新 png/jpg 压缩核心 jpegtran/PngOptimizerCL
