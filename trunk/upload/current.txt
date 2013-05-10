@@ -1,5 +1,8 @@
-246
+247
 
+修复启动 bug，XP 用户需安装 .NET Framework 3.5
+
+246
 1. 改进 2x -> 1x 算法（感谢 meterscao 反馈问题）
 2. 更新 png/jpg 压缩核心 jpegtran/PngOptimizerCL
 
