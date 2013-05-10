@@ -1,4 +1,4 @@
-247
+248
 
 修复启动 bug，XP 用户需安装 .NET Framework 3.5
 
