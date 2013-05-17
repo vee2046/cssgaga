@@ -1,5 +1,8 @@
-251
+252
 
+AutoSprite for retina 算法微调
+
+251
 1. 修复 bug：base64 空格 bug；import 格式 bug（感谢任平生反馈）
 2. ini 格式调整（仅 Qzone 使用）
 3. 屏蔽当路径含有 % 时文件不存在的警告（皮肤 1toN 时可以用 % 作为模板变量）
@@ -9,6 +12,3 @@
 249
 全局 jpg 压缩算法调整
 
-246
-1. 改进 2x -> 1x 算法（感谢 meterscao 反馈问题）
-2. 更新 png/jpg 压缩核心 jpegtran/PngOptimizerCL
