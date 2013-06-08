@@ -1,10 +1,11 @@
-259
+260
 
 增加 RGBAtoFilter 功能（勾选开启）
 
 源文件：.classname{background-color:rgba(0,0,0,.5);}
 
 Gaga生成后：
+
 .classname{background-color:transparent\0;-ms-filter:'progid:DXImageTransform.Microsoft.gradient(startColorstr=#7F000000,endColorstr=#7F000000)';#filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#7F000000,endColorstr=#7F000000);#zoom:1}
 @media screen and (min-width:0\0){.classname{background-color:rgba(0,0,0,.5);-ms-filter:none;filter:none}}
 
