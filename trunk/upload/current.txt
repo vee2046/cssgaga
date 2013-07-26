@@ -1,9 +1,9 @@
+281
+
+精简 RGBAtoFilter 的写法
+
 280
-
 修复配置文件写失败的 bug （其表现是某些功能虽然勾选了但不起作用）
-
-279
-修复 base64 bug
 
 278
 AutoRetina 功能支持 base64，规则是：
