@@ -1,15 +1,4 @@
-290
+292
 
-自动更新服务器迁移至 github
-
-289
-
-默认启动本地服务器，去除选项
-
-288
-增加时间戳格式设置
-
-287
-AutoRetina 格式改为
-(-webkit-min-device-pixel-ratio: 1.25),
-(min-resolution: 120dpi)
+1. 增加 PSD TO PNG 功能
+2. 提高皮肤 1toN 中的 AutoSrite 生成速度
