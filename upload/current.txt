@@ -1,4 +1,4 @@
-295
+296
 
 1. PNG 压缩算法改进
 2. 修复 AutoSprite 中 .ie6.png 色块缺失 bug
